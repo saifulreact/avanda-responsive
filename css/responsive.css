@@ -1,0 +1,37 @@
+@media (min-width:1400) {
+    body{
+        background: rgb(103, 119, 120);
+    }
+}
+@media (min-width:1200px) and(max-width:1399px){
+body{
+    background: rgb(128, 224, 72);
+}
+}
+@media (min-width:992px) and(max-width:1199px){
+body{
+    background: rgb(230, 126, 74);
+}
+}
+@media (min-width:768px) and(max-width:991px){
+body{
+    background: rgb(36, 11, 193);
+}
+}
+@media (min-width:576px) and(max-width:767px){
+body{
+    background: rgb(210, 29, 234);
+}
+}
+@media (min-width:0px) and(max-width:575px){
+body{
+    background: cadetblue;
+    
+}
+.main_row {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 10.7px;
+}
+}

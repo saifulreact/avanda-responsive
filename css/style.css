@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+/* ===================== common css part start ======================== */
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+ul,li{
+    list-style: none;
+}
+img{
+    max-width:100%;
+    vertical-align: middle;
+}
+
+:root{
+    --font-ibm:"IBM Plex Sans", sans-serif;
+}
+/* ===================== common css part  end ======================== */
+/* ===================== navbar css part start ======================== */
+nav{
+    background: pink;
+}
+.btn a{
+    padding: 20px 51px;
+    font-family: var(--font-ibm);
+    font-size: 18px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background: #FF9600;
+    border-radius: 10px;
+}
+.navbar_part{
+    display: flex;
+    justify-content: space-between ;
+}
+/* ===================== navbar css part  end ======================== */
+/* ===================== banner css part start ======================== */
+#banner_part_start{
+    background-image: url(../images/banner.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+  
+}
+/* ===================== banner css part  end ======================== */
+/* ===================== common css part start ======================== */
+/* ===================== common css part  end ======================== */
+/* ===================== common css part start ======================== */
+/* ===================== common css part  end ======================== */
+/* ===================== common css part start ======================== */
+/* ===================== common css part  end ======================== */
+/* ===================== common css part start ======================== */
+/* ===================== common css part  end ======================== */
+/* ===================== common css part start ======================== */
+/* ===================== common css part  end ======================== */
+/* ===================== common css part start ======================== */
+/* ===================== common css part  end ======================== */
+/* ===================== common css part start ======================== */
+/* ===================== common css part  end ======================== */
+/* ===================== common css part start ======================== */
+/* ===================== common css part  end ======================== */
+/* ===================== common css part start ======================== */
+/* ===================== common css part  end ======================== */
+/* ===================== common css part start ======================== */
+/* ===================== common css part  end ======================== */
+/* ===================== common css part start ======================== */
+/* ===================== common css part  end ======================== */
+/* ===================== common css part start ======================== */
+/* ===================== common css part  end ======================== */
+/* ===================== common css part start ======================== */
+/* ===================== common css part  end ======================== */
+/* ===================== common css part start ======================== */
+/* ===================== common css part  end ======================== */
+/* ===================== common css part start ======================== */
+/* ===================== common css part  end ======================== */
